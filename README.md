@@ -1,5 +1,5 @@
 # WaveFunctionCollapseMaze
-A wave function collapse maze generator inspired by Maxim Gumin's work with the [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) algorithm. Authored by Bob Burrough.
+A wave-function-collapse maze generator inspired by Maxim Gumin's work with the [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) algorithm. Authored by Bob Burrough.
 
 https://user-images.githubusercontent.com/12551477/137875475-b0423391-1913-4f33-b103-d6a59e110135.mp4
 
